@@ -1,7 +1,7 @@
-hex - The Hex Copter Project by Jason McGee and David Henderson
+hex
 ===
 
-Hex Copter Project Repository
+The Hex Copter Project by Jason McGee and David Henderson
 
 ```
 Test
