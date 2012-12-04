@@ -44,7 +44,20 @@ To reflash the board, using the IMU config as : //FFIMUv43
 4 serial ports. Keep your Bluetooth/3dr connected and still use the USB port.
 ```
 
-3. Radio
-4. Motors
-5. ESCs
-6. Batteries
+##Radio
+
+
+##Motors
+
+
+##ESCs
+
+
+##Batteries
+
+
+##Prop Balancer
+
+
+
+
